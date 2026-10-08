@@ -170,18 +170,18 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Banking Customer & Transaction Analysis Dashboard](banking_customer_transaction_analysis_dashboard_image.png)
+![Banking Customer & Transaction Analysis Dashboard](5_banking_customer_transaction_analysis_dashboard_image.png)
 
 ## 📁 Project Files
 
 | File | Description |
 |---|---|
-| `banking_customer_transaction_analysis_data.csv` | Final cleaned dataset |
-| `banking_customer_transaction_analysis_python.ipynb` | Python cleaning and analysis |
-| `banking_customer_transaction_analysis_queries.sql` | SQL business analysis queries |
-| `banking_customer_transaction_analysis_dashboard.pbix` | Power BI dashboard |
-| `banking_customer_transaction_analysis_dashboard_image.png` | Dashboard preview |
-| `banking_customer_transaction_analysis_report.pdf` | Detailed project report |
+| `1_banking_customer_transaction_analysis_data.csv` | Final cleaned dataset |
+| `2_banking_customer_transaction_analysis_python.ipynb` | Python cleaning and analysis |
+| `3_banking_customer_transaction_analysis_queries.sql` | SQL business analysis queries |
+| `4_banking_customer_transaction_analysis_dashboard.pbix` | Power BI dashboard |
+| `5_banking_customer_transaction_analysis_dashboard_image.png` | Dashboard preview |
+| `6_banking_customer_transaction_analysis_report.pdf` | Detailed project report |
 
 ## 💼 Business Recommendations
 
@@ -201,21 +201,22 @@ The Power BI dashboard includes:
 
 ## 👨‍💻 Project Workflow
 
-```text
-Raw Excel Data
-      ↓
-Excel Cleaning
-      ↓
-Python Validation & EDA
-      ↓
-PostgreSQL / SQL Analysis
-      ↓
-Power BI Dashboard
-      ↓
+Raw Excel Data  
+↓  
+Excel Cleaning  
+↓  
+Python Validation & EDA  
+↓  
+SQL Analysis  
+↓  
+Power BI Dashboard  
+↓  
 Business Insights & Reporting
+
+---
 
 ## 📝 Conclusion
 
-This project demonstrates an end-to-end data analytics workflow, from data cleaning and validation to SQL-based business analysis and Power BI visualization.
+This project demonstrates an end-to-end data analytics workflow, covering data cleaning, validation, exploratory analysis, SQL-based business analysis, and Power BI visualization.
 
 The analysis provides insights into transaction performance, customer and account behavior, transaction channels, risk categories, account balances, and monthly trends. The final Power BI dashboard presents these findings in a clear and business-friendly format, making the project suitable for portfolio and business analytics use cases.
