@@ -172,16 +172,14 @@ The Power BI dashboard includes:
 
 ![Banking Customer & Transaction Analysis Dashboard](5_banking_customer_transaction_analysis_dashboard_image.png)
 
-## 📁 Project Files
+## 📂 Project Files
 
-| File | Description |
-|---|---|
-| `1_banking_customer_transaction_analysis_data.csv` | Final cleaned dataset |
-| `2_banking_customer_transaction_analysis_python.ipynb` | Python cleaning and analysis |
-| `3_banking_customer_transaction_analysis_queries.sql` | SQL business analysis queries |
-| `4_banking_customer_transaction_analysis_dashboard.pbix` | Power BI dashboard |
-| `5_banking_customer_transaction_analysis_dashboard_image.png` | Dashboard preview |
-| `6_banking_customer_transaction_analysis_report.pdf` | Detailed project report |
+1. [Final Cleaned Dataset](1_banking_customer_transaction_analysis_data.csv)
+2. [Python Analysis Notebook](2_banking_customer_transaction_analysis_python.ipynb)
+3. [SQL Analysis Queries](3_banking_customer_transaction_analysis_queries.sql)
+4. [Power BI Dashboard](4_banking_customer_transaction_analysis_dashboard.pbix)
+5. [Dashboard Preview](5_banking_customer_transaction_analysis_dashboard_image.png)
+6. [Final Project Report](6_banking_customer_transaction_analysis_report.pdf)
 
 ## 💼 Business Recommendations
 
